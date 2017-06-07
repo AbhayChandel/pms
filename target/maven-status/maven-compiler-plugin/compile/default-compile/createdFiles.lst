@@ -1,0 +1,4 @@
+com\zerosolutions\general\WebConfig.class
+com\zerosolutions\general\ApplicationIntializer.class
+com\zerosolutions\controller\MasterController.class
+com\zerosolutions\config\LoginSecurityConfig.class
